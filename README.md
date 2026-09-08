@@ -1,2 +1,2 @@
-# Practicum_projects-
-My Python Pandas projects during YandexPractucum Data Analyst courses
+# Jupiter Notebook 
+Мои проекты в Jupiter Notebook, направленные на предобработку, анализ и визуализацию данных в python, а также на проведение A/B тестов на основе данных. 
